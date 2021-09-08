@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\htmlpppp"
+		},
+		{
+			"path": "..\\CSScheatsheet"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CSScheatsheet"
+	}
+}
